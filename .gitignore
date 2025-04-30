@@ -1,5 +1,42 @@
-/Temp/
-/Library/
-/Logs/
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# VSCode
+.vscode/
+
+# Rider
+.idea/
+
+# Auto-generated VS/MonoDevelop project files
 *.csproj
+*.unityproj
 *.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Builds
+*.apk
+*.aab
+*.exe
+*.app
+*.unitypackage
+
+# OS files
+.DS_Store
+Thumbs.db
